@@ -8,3 +8,25 @@
 
 ### important_examples
 - Another useful resource: Link: http://www.techbeamers.com/python-list/
+
+Python List – Table Of Content.
+Create a List in Python
+Using [ ] to Create a List
+With List() Method to Create a List
+Using List Comprehension
+Creating a Multi-Dimensional List
+List Extension
+Access a List in Python (Indexing)
+Using the Index Operator
+Reverse Indexing
+Slicing Python Lists
+Iterate a List in Python
+Add/Update Elements in a List
+Remove/Delete Elements from a List
+Searching Elements in a List
+Sorting a List in Python
+List’s Sort() Method
+Built-in Sorted() Function
+Essential List Methods
+Built-in List Functions
+.........................................................
