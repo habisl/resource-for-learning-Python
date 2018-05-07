@@ -30,3 +30,6 @@ Python List – Table Of Content.
 - Essential List Methods
 - Built-in List Functions
 .........................................................
+### Collection 51 ebooks on Python Programming
+
+https://electronicsforu.com/resources/cool-stuff-misc/collection-51-free-ebooks-python-programming
