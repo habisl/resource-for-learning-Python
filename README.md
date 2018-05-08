@@ -1,4 +1,6 @@
 # My useful resource for Python
+### Best one so far (Pythonic way)
+https://realpython.com/
 
 ### pythonbook.pdf 
 - This book was voted as best book on redit to learn python. The book is freely available via the author. 
