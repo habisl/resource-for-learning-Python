@@ -1,17 +1,17 @@
 # My useful resource for Python
-### Best one so far (Pythonic way)
+### *REALPYTHON- Best one so far (Pythonic way)*
 https://realpython.com/
 
 #### Operator and Function Overloading in Custom Python Classes (OOP)
 https://realpython.com/operator-function-overloading/
 
-### pythonbook.pdf 
+### *pythonbook.pdf* 
 - This book was voted as best book on redit to learn python. The book is freely available via the author. 
 
-### A good online python course
+### *A good online python course*
 - Very useful site. Examples are really easy to understand: https://www.python-course.eu/
 
-### important_examples
+### *important_examples*
 - Another useful resource: Link: http://www.techbeamers.com/python-list/
 
 Python List – Table Of Content.
@@ -35,6 +35,6 @@ Python List – Table Of Content.
 - Essential List Methods
 - Built-in List Functions
 .........................................................
-### Collection 51 ebooks on Python Programming
+### *Collection 51 ebooks on Python Programming*
 
 https://electronicsforu.com/resources/cool-stuff-misc/collection-51-free-ebooks-python-programming
