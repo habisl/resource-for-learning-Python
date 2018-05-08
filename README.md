@@ -2,6 +2,9 @@
 ### Best one so far (Pythonic way)
 https://realpython.com/
 
+#### Operator and Function Overloading in Custom Python Classes (OOP)
+https://realpython.com/operator-function-overloading/
+
 ### pythonbook.pdf 
 - This book was voted as best book on redit to learn python. The book is freely available via the author. 
 
