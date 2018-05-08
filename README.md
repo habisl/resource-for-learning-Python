@@ -5,13 +5,15 @@ https://realpython.com/
 #### Operator and Function Overloading in Custom Python Classes (OOP)
 https://realpython.com/operator-function-overloading/
 
+Explanation for : func(), and the corresponding special method for the function is __func__()
+
 ### *pythonbook.pdf* 
 - This book was voted as best book on redit to learn python. The book is freely available via the author. 
 
 ### *A good online python course*
 - Very useful site. Examples are really easy to understand: https://www.python-course.eu/
 
-### *important_examples*
+### *Important_examples*
 - Another useful resource: Link: http://www.techbeamers.com/python-list/
 
 Python List – Table Of Content.
