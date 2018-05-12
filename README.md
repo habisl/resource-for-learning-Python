@@ -10,6 +10,10 @@ Explanation for : func(), and the corresponding special method for the function 
 ### *pythonbook.pdf* 
 - This book was voted as best book on redit to learn python. The book is freely available via the author. 
 
+### *Python Tricks* 
+For advance learning. Not available for free. 
+More: https://dbader.org/products/python-tricks-book/
+
 ### *A good online python course*
 - Very useful site. Examples are really easy to understand: https://www.python-course.eu/
 
