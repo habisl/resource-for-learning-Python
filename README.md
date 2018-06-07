@@ -44,3 +44,7 @@ Python List – Table Of Content.
 ### *Collection 51 ebooks on Python Programming*
 
 https://electronicsforu.com/resources/cool-stuff-misc/collection-51-free-ebooks-python-programming
+
+### *Useful Tutorial with turtle*
+
+http://www.instructables.com/id/Easy-Designs-Turtle-Graphics-Python/
