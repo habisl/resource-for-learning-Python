@@ -48,3 +48,6 @@ https://electronicsforu.com/resources/cool-stuff-misc/collection-51-free-ebooks-
 ### *Useful Tutorial with turtle*
 
 http://www.instructables.com/id/Easy-Designs-Turtle-Graphics-Python/
+
+### *Working With JSON Data in Python*
+https://realpython.com/python-json/
