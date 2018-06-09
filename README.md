@@ -1,4 +1,8 @@
 # My useful resource for Python
+### *Among the best: Python® Notes for Professionals book*
+https://books.goalkicker.com/PythonBook/
+One of my most favourites
+
 ### *REALPYTHON- Best one so far (Pythonic way)*
 https://realpython.com/
 
