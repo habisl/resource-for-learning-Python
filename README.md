@@ -21,6 +21,11 @@ More: https://dbader.org/products/python-tricks-book/
 ### *A good online python course*
 - Very useful site. Examples are really easy to understand: https://www.python-course.eu/
 
+### *Python in cloud* 
+Allow to run Python code in the cloud from one web app and the console
+
+https://www.pythonanywhere.com/
+
 ### *Important_examples*
 - Another useful resource: Link: http://www.techbeamers.com/python-list/
 
