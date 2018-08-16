@@ -26,6 +26,9 @@ Allow to run Python code in the cloud from one web app and the console
 
 https://www.pythonanywhere.com/
 
+### *File reading example*
+https://bhagat.blog/2017/01/06/replacing-string-in-a-file-using-python/
+
 ### *Important_examples*
 - Another useful resource: Link: http://www.techbeamers.com/python-list/
 
