@@ -63,3 +63,6 @@ http://www.instructables.com/id/Easy-Designs-Turtle-Graphics-Python/
 
 ### *Working With JSON Data in Python*
 https://realpython.com/python-json/
+
+### *Working with os.path in Python*
+https://www.programcreek.com/python/example/1/os.path.join
