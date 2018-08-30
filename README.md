@@ -18,6 +18,8 @@ Explanation for : func(), and the corresponding special method for the function 
 For advance learning. Not available for free. 
 More: https://dbader.org/products/python-tricks-book/
 
+### *Adding a pipe operator to Python*
+https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642
 ### *A good online python course*
 - Very useful site. Examples are really easy to understand: https://www.python-course.eu/
 
