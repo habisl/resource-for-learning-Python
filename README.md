@@ -31,6 +31,10 @@ https://www.pythonanywhere.com/
 ### *File reading example*
 https://bhagat.blog/2017/01/06/replacing-string-in-a-file-using-python/
 
+### *Example of IF statement in pythonic way*
+
+https://realpython.com/python-conditional-statements/
+
 ### *Important_examples*
 - Another useful resource: Link: http://www.techbeamers.com/python-list/
 
